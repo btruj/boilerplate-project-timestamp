@@ -17,8 +17,8 @@
   "bugs": {
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "homepage": "https://git.heroku.com/sleepy-forest-82012.git",
+  "author": "Bryan",
   "keywords": [
     "node",
     "express",
