@@ -53,6 +53,6 @@ return res.json({
 })
 
 // listen for requests :)
-var listener = app.listen(5000, function () {
-  console.log('Your app is listening on port ' + 5000);
+var listener = app.listen(server.port, function () {
+  console.log('Your app is listening on port ' + server.port);
 });
